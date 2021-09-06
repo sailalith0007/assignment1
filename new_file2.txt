@@ -1,3 +1,4 @@
+modify file 2
 This is a new file  2.
 
 This line is added to compare the changes.
