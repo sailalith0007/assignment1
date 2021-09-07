@@ -1,1 +1,1 @@
-This is a seconf conflict file.
+This is a seconf conflict file. this is a file
