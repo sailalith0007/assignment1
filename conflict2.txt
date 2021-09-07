@@ -1,1 +1,1 @@
-This is a second conflict file
+This is a file in conflict.
